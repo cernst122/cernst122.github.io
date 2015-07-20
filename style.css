@@ -1,0 +1,60 @@
+@import url(http://fonts.googleapis.com/css?family=Poiret+One); /*pulls in this font*/
+@import url(http://fonts.googleapis.com/css?family=Lobster);
+
+
+/*tag*/
+body{
+background-image: url(http://www.liekearends.com/wp-content/uploads/2011/07/2010__grey_clouds_by_AzurylipfesStock.jpg);
+display: inline-block;
+font-family: 'Poiret One', cursive;
+  color: red;
+  background-color: #fff0ff;
+
+}
+/*#welcome{
+  text-align: center;
+  color:white;
+  font-weight: bolder;*/
+
+}
+#links{
+  /*border: 3px solid white;*/
+  text-align:center;
+}
+/*h1{
+
+  font-family: 'Lobster', cursive;
+  text-align: left;*/
+
+#plusandminus{
+  font-family: 'Lobster', cursive;
+
+}
+
+
+
+
+img{
+
+  border: 3px solid red;
+
+}
+
+
+/*id*/
+#worktag{
+  color: blue;
+}
+/* class*/
+.bluetext{
+  color: blue;
+}
+#welcome{
+  text-align: center;
+  color:white;
+  font-weight: bolder;
+
+}
+#text{
+  text-align: center;
+}
